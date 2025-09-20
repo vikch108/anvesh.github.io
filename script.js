@@ -42,3 +42,4 @@ searchInput.addEventListener("keyup", function () {
     }
   }
 });
+
