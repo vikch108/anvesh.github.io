@@ -135,3 +135,19 @@ footer div a{
     font-family: 'Hind', sans-serif;
     /* font-size: 30px; */
 }
+
+@media (max-width: 480px) {
+  
+    #logo{
+        display: none;
+    }
+
+    main{
+        width: 90%;
+        margin: 0 2%;
+    }
+
+    .category{
+        display:none;
+    }
+}
