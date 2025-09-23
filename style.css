@@ -61,20 +61,19 @@ h3{
     
 }
 
-h3 a{
+h2 a{
     text-decoration: none;
     color: black;
-    padding: 0px 10px;
 }
 
-.date{
+ .date{
     padding: 10px 0px;
     font-size:15px;
     text-transform: uppercase;
 }  
 
-p{
-    padding: 0 0px;
+.articlelist{
+    width: 70%;
     font-size: 20px;
 }
 
@@ -137,6 +136,10 @@ footer div a{
     /* font-size: 30px; */
 }
 
+
+
+
+
 @media (max-width: 480px) {
   
     #logo2{
@@ -176,12 +179,12 @@ footer div a{
         border: 1px solid black;
         
     }
-    .articlediv{
+    .articlelist{
         width: 100%;        
         /* border: 1px solid black; */
     }
 
-    h3{
+    h2{
         font-size: 30px;
     }
     .date{
@@ -190,6 +193,10 @@ footer div a{
 
     p{
         font-size: 15px;
+    }
+    a img{
+        height: 125px;
+        width: 100%;
     }
 
     footer div a h3{
