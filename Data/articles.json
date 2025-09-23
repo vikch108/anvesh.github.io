@@ -1,29 +1,52 @@
 [
   {
     "id": 1,
-    "title": "What is THE TRAYI?",
-    "date": "2025-09-19",
-    "summary": "This is the first few lines of the article to give readers an idea...",
-    "thumbnail": "images/what is trayi.jpg",
-    "image": "images/what is trayi.jpg",
-    "content": "<p>The Trayi represents the three foundational Vedic texts of India...</p>"
+    "title": "The Arthashastra: Ancient Indian Statecraft",
+    "date": "2025-09-23",
+    "author": "Vikas Chandle",
+    "thumbnail": "images/vedas.jpg",
+    "image": "images/vedas.jpg",
+    "summary": "The Arthashastra is an ancient Indian treatise on politics, economics, and statecraft, written by Kautilya (Chanakya).",
+    "sections": [
+      {
+        "heading": "Introduction",
+        "content": "The Arthashastra is an ancient Indian treatise on politics, economics, and statecraft. It is one of the earliest works of political philosophy in the world."
+      },
+      {
+        "heading": "The Author: Kautilya",
+        "content": "Kautilya, also known as Chanakya or Vishnugupta, was the advisor and mentor of Chandragupta Maurya. His strategies were pivotal in founding the Mauryan Empire."
+      },
+      {
+        "heading": "Concept of Trayi",
+        "content": "In the Arthashastra, Kautilya describes the concept of Trayi, which refers to the threefold Vedic knowledge. This text draws wisdom from the Rigveda, Samaveda, and Yajurveda."
+      },
+      {
+        "heading": "Conclusion",
+        "content": "The Arthashastra remains a timeless guide on leadership, ethics, and governance. Its lessons are still relevant in today’s political and economic world."
+      }
+    ]
   },
   {
     "id": 2,
-    "title": "Veda",
-    "date": "2025-09-20",
-    "summary": "The Arthashastra is an ancient Indian text on statecraft...",
-    "thumbnail": "images/vedas.jpg",
+    "title": "Veda: The Foundation of Knowledge",
+    "date": "2025-09-24",
+    "author": "Vikas Chandle",
+    "thumbnail": "images/what is trayi.jpg",
     "image": "images/vedas.jpg",
-    "content": "<p>The Arthashastra was written by Kautilya (Chanakya) and covers...</p>"
-  },
-    {
-    "id": 2,
-    "title": "Veda",
-    "date": "2025-09-20",
-    "summary": "The Arthashastra is an ancient Indian text on statecraft...",
-    "thumbnail": "images/vedas.jpg",
-    "image": "images/vedas.jpg",
-    "content": "<p>The Arthashastra was written by Kautilya (Chanakya) and covers...</p>"
+    "summary": "The Vedas are ancient scriptures of India, considered the source of knowledge and wisdom.",
+    "sections": [
+      {
+        "heading": "Introduction",
+        "content": "The Vedas are ancient scriptures of India, considered the source of knowledge and wisdom. They contain hymns, philosophy, and rituals central to Sanatana Dharma."
+      },
+      {
+        "heading": "Importance of Vedas",
+        "content": "The Vedas guide spiritual, moral, and social conduct. They form the backbone of Indian philosophy and rituals."
+      },
+      {
+        "heading": "Relevance Today",
+        "content": "Even in modern times, Vedic principles inspire governance, ethics, education, and personal discipline."
+      }
+    ]
   }
 ]
