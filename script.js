@@ -7,7 +7,7 @@ fetch("Data/articles.json")
             div.classList.add("articlepreview");
             div.innerHTML = `
             <article>
-            <a href="article.html?id=${article.id}"><img src="${article.thumbnail}" alt="${article.title}" height="250" width="100% " class="post-image"</a>
+            <a href="article.html?id=${article.id}"><img src="${article.thumbnail}" alt="${article.title}" height="250" width="100% " class="articlepost-image"</a>
             <h2><a href="article.html?id=${article.id}">${article.title}</a></h2>
             <p class="date"><strong class="date">Published:</strong> ${article.date}</p>
             <p class="article">${article.summary} <a href="article.html?id=${article.id}" class="readme">Read more</a></p>

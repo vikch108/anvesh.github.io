@@ -31,10 +31,14 @@ fetch("./Data/articles.json")
 
     container.innerHTML = `
       <article>
-        <header>
-          <h1 class="post-title">${article.title}</h1>
-          <p class="date"><strong class="label">Published:</strong> ${article.date}</p>
+        <header id="articleheader">
+          <div>
+              <h1 class="post-title">${article.title}</h1>
+              <p class="date"><strong class="label">Published:</strong> ${article.date}</p>
+            
+          </div>
           <img src="${article.image}" alt="${article.title}" class="post-image">
+          
         </header>
 
         ${sectionsHTML}
